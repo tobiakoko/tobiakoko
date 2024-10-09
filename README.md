@@ -2,11 +2,9 @@
 <h3 align="center">Full-Stack Software Engineer | AI Enthusiast | Technical Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2B6CB0&center=true&vCenter=true&width=600&lines=Passionate+about+building+scalable+solutions;Crafting+efficient+end-to-end+applications;Solving+problems+through+code+and+creativity" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2B6CB0&center=true&vCenter=true&width=600&lines=Passionate+about+inventing+the+future;Building+efficient+end-to-end+applications;Knack+for+breaking+and+tinkering" alt="Typing SVG">
 </p>
-Passionate+about+building+scalable+solutions;
-Crafting+efficient+end-to-end+applications;
-Solving+problems+through+code+and+creativity
+
 ---
 
 ### 🚀 About Me
@@ -56,10 +54,10 @@ I'm a Full-Stack Software Engineer and a problem solver with a passion for oppor
 
 ### 🔥 Featured Projects
 
-**🌟 [ARKO RentSmart: Rent Prediction Platform](https://github.com/yourproject)**  
+**🌟 [ARKO RentSmart: Rent Prediction Platform](https://github.com/tobiakoko)**  
 Built a full-stack machine learning application predicting rent prices using housing data from Kaggle. Integrated Flask API for backend, with a responsive React frontend.
 
-**🚀 [WGUPS Route Optimization Engine](https://github.com/yourproject)**  
+**🚀 [WGUPS Route Optimization Engine](https://github.com/tobiakoko)**  
 Developed a Python-based route optimization algorithm for efficient deliveries using the Nearest Neighbor Algorithm.
 
 ---
