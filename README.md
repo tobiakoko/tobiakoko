@@ -4,19 +4,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2B6CB0&center=true&vCenter=true&width=600&lines=Passionate+about+building+scalable+solutions;Crafting+efficient+end-to-end+applications;Solving+problems+through+code+and+creativity" alt="Typing SVG">
 </p>
-
+Passionate+about+building+scalable+solutions;
+Crafting+efficient+end-to-end+applications;
+Solving+problems+through+code+and+creativity
 ---
 
 ### 🚀 About Me
-I'm a passionate Software Engineer with a focus on building scalable full-stack applications that solve real-world problems. With a strong background in web development, cloud technologies, and machine learning, I enjoy architecting solutions that impact businesses and users alike. My strength lies in blending clean code with creative problem-solving, backed by strong communication and collaboration skills.
-
----
-
-### 💼 What I Do
-- **Full-Stack Development:** Expertise in both frontend and backend technologies with a focus on scalable, secure, and efficient web applications.
-- **Problem-Solving:** Tackling complex technical challenges and delivering robust solutions.
-- **Collaboration & Leadership:** Bridging the gap between technical and non-technical stakeholders to deliver impactful solutions.
-- **Continuous Learning:** Constantly exploring new technologies and tools to stay on the cutting edge of software development.
+I'm a Full-Stack Software Engineer and a problem solver with a passion for opportunities that challenge me to design and execute efficient and innivative solutions. Currently, I'm working on projects that combine my passion and technical skills with real-world impact. 
 
 ---
 
@@ -45,7 +39,6 @@ I'm a passionate Software Engineer with a focus on building scalable full-stack 
   <img src="https://github-readme-stats.vercel.app/api?username=tobiakoko&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiakoko&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiakoko&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
