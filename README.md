@@ -54,7 +54,7 @@ I'm a Full-Stack Software Engineer and a problem solver with a passion for oppor
 
 ### 🔥 Featured Projects
 
-**🌟 [ARKO RentSmart: Rent Prediction Platform](https://github.com/tobiakoko)**  
+**🌟 [ARKO RentSmart: Rent Prediction Platform](https://github.com/tobiakoko/ARKO-RentSmart)**  
 Built a full-stack machine learning application predicting rent prices using housing data from Kaggle. Integrated Flask API for backend, with a responsive React frontend.
 
 **🚀 [WGUPS Route Optimization Engine](https://github.com/tobiakoko)**  
