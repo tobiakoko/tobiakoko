@@ -1,14 +1,14 @@
 <h1 align="center">Welcome! 👋 I'm Daniel Akoko</h1>
-<h3 align="center">Full-Stack Software Engineer | AI Enthusiast | Technical Problem Solver</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2B6CB0&center=true&vCenter=true&width=600&lines=Passionate+about+inventing+the+future;Building+efficient+end-to-end+applications;Knack+for+breaking+and+tinkering" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2B6CB0&center=true&vCenter=true&width=600&lines=React;Vite;Next+js;Tailwind+CSS" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm a Full-Stack Software Engineer and a problem solver with a passion for opportunities that challenge me to design and execute efficient and innivative solutions. Currently, I'm working on projects that combine my passion and technical skills with real-world impact. 
+I'm Tobi, a life long student obsessed with how the web works 
 
 ---
 
@@ -47,6 +47,8 @@ I'm a Full-Stack Software Engineer and a problem solver with a passion for oppor
 
 <p align="center">
   <a href="https://linkedin.com/in/daniel-akoko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-akoko" height="30" width="40" /></a>
+  <br />
+  <br />
   <a href="https://github.com/tobiakoko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
