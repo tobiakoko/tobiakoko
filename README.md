@@ -1,6 +1,6 @@
 #### Hi, I'm Daniel Akoko!
 
 
-I&apos;m based in Tampa, Florida, and work as a Full stack Software Developer
+I&apos;m based in Dallas, Texas, and work as a Software Engineer
 
 _Tech Stack: TypeScript, React, Tailwind, Java_
